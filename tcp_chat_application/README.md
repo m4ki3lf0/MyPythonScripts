@@ -26,7 +26,7 @@ Syncing server side and client side is not that easy. I am not a develloper only
 Meh, I did not optimize that much. I played with threading so that the server wouldn't block on receiving a message.
 
 
-![alt text](https://github.com/m4ki3lf0/tcp_chat_application/blob/main/src/tcpChatApp.png)
+![alt text](https://github.com/m4ki3lf0/MyPythonScripts/blob/main/tcp_chat_application/src/tcpChatApp.png)
 
 ## Roadmap
 
